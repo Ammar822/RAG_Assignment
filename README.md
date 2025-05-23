@@ -1,5 +1,5 @@
 # RAG_Assignment
-Here's a well-structured and personalized `README.md` file based on your work and preferences:
+
 
 ---
 
